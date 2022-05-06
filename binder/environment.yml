@@ -12,3 +12,4 @@ dependencies:
   - descartes
   - numpy
   - plotly
+  - plotly_express
